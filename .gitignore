@@ -1,3 +1,9 @@
 .Rproj.user
 *.tar.gz
 .Rhistory
+renv/
+renv.lock
+
+# Ignore local renv snapshot—use manifest.json on Connect Cloud
+renv/
+renv.lock
